@@ -18,6 +18,12 @@ engagement patterns and generate AI-powered strategy insights.
 Real-world dataset of 48,079 TikTok and YouTube Shorts videos sourced 
 from Kaggle, covering 14 content genres across multiple regions in 2025.
 
+## Dataset
+Real-world dataset of 48,079 TikTok and YouTube Shorts videos sourced 
+from Kaggle, covering 14 content genres across multiple regions in 2025.
+
+**Source:** [YouTube Shorts and TikTok Trends 2025](https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025)
+
 ## What it does
 1. Loads and inspects raw dataset using Pandas
 2. Cleans data by removing low-value columns and reclassifying creator tiers
