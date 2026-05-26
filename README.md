@@ -1,5 +1,5 @@
 # Data-Driven Strategy for Launching a Music Creator Channel
-  Social Media Creator Analytics Pipeline
+**Social Media Creator Analytics Pipeline**
 
 I built this project to answer one question: if I were launching a DJ and music creation channel on TikTok or YouTube Shorts, what does the data actually tell me about how to grow from day one? How can I use existing data to drive decisions that will grow my personal brand and business short term and long term?
 
